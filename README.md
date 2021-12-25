@@ -18,6 +18,11 @@ FEATURES:
 4.Make Excel sheet IN and OUT Date and Time mention
 5.Excel sheet provide Tabular Format
 
+PROJECT IMAGES:
+
+![img1](https://user-images.githubusercontent.com/73115703/147379018-04b50588-e3b6-40de-8e02-39a3332d78fd.png)
+
+
 
 
 
